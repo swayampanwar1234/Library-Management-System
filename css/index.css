@@ -1,0 +1,24 @@
+body{
+    background-image: url(../images/background.jpg);
+    height: 100%;
+  background-repeat: no-repeat;
+  /* overflow: hidden; */
+  overflow-x: hidden;
+}
+
+div{
+    color: white;
+}
+
+.footer{
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+  font-size: large;
+}
+
+.underline
+{
+  color: white;
+  font-weight: bold;
+}
